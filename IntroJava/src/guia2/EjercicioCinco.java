@@ -1,7 +1,8 @@
 /*
+
 Escribir un programa que lea un número entero por teclado y 
 muestre por pantalla el doble, el triple y la raíz cuadrada de ese número. 
- */
+F */
 package guia2;
 
 import java.util.Scanner;
